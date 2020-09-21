@@ -31,7 +31,7 @@ var divElements = createElement("div", {
 }, createElement("div", null), createElement("div", null));
 ```
 
-![createElement is not defined](assets\Snipaste_2020-09-21_09-57-06.png)
+![createElement is not defined](./assets/Snipaste_2020-09-21_09-57-06.png)
 
 
 ### 2. 实现 `createElement` 函数
